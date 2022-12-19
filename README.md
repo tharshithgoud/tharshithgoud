@@ -4,8 +4,8 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-# 💫 About Me:
-I'm Currently Working on Vikrant
+# About Me:
+- 🔭 I'm Currently Working on Vikrant
 
 
 # 💻 Tech Stack:
